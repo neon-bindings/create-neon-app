@@ -1,0 +1,23 @@
+{
+  "name": "create-neon-app",
+  "version": "0.1.0",
+  "description": "Create a Neon app with a single command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neon-bindings/create-neon-app.git"
+  },
+  "keywords": [
+    "Neon",
+    "Rust"
+  ],
+  "author": "David Herman <david.herman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neon-bindings/create-neon-app/issues"
+  },
+  "homepage": "https://github.com/neon-bindings/create-neon-app#readme"
+}
